@@ -6,6 +6,8 @@ https://pypi.org/project/linkedin-scraper/
 
 Abaut selenium web driver and linkedin scraper library
 I should modify a little bit the source code of libary on the company.py class in order to obtain better results on the final HTML report for the OSINT personal tool:
+
+
       def __parse_employee__(self, employee_raw):
             try:
                 linkedin_url=None
